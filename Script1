@@ -1,4 +1,4 @@
--- Créer une table pour stocker les résultats de la surveillance
+-- Créer une table pour stocker les résultats de la surveillance ROCK
 CREATE TABLE dbo.IndexFragmentation
 (
     IndexName SYSNAME,
